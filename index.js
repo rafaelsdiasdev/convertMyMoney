@@ -32,6 +32,6 @@ app.get('/cotacao', (req, res) => {
 })
 
 app.listen(port, err => {
-    err ? console.log('nao foi possivel iniciar') : console.log('convertMyMoney esta online')
+    err ? console.log('nao foi possivel iniciar o convertMyMoney') : console.log('convertMyMoney esta online')
 })
 
