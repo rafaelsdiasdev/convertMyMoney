@@ -4,23 +4,24 @@ body {
 
 h1 img {
     margin: 20px;
-    width: 489px;
+    width: 90%;
+    justify-content: center;
 }
 
-input {
+/* input {
     border: 1px solid #000;
     background:#FDFDFD;
     font-size: 20px;
     padding: 10px;
     margin: 4px;
-}
-
+} */
+/* 
 button {
     border: 1px solid #000;
     background: #D8D8D8;
     font-size: 20px;
     padding: 10px;
-}
+} */
 
 .result {
     padding: 10px;
